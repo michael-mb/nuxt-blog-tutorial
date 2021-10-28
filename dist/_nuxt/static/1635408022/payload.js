@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{articles:[{slug:"first-post",description:"Welcome to my first blog post using the content module.",title:"My first blog post",img:"blog1.jpg"},{slug:"second-post",description:"Welcome to my second blog post using the content module.",title:"My second blog post",img:"blog2.jpg"}]}],fetch:{},mutations:void 0});
