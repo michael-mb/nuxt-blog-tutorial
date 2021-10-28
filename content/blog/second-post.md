@@ -4,7 +4,6 @@ description: Welcome to my second blog post using the content module.
 slug: second-post
 img: blog2.jpg
 ---
-
 # Mastering VueJS
 ### My learning notes on Vue (version 3)
 
